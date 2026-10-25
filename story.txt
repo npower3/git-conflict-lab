@@ -1,0 +1,3 @@
+The team is building a tiny story together.
+The first draft is shared by both developers.
+Each developer has a separate working copy.
