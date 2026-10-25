@@ -9,7 +9,7 @@ A small repository for practicing Git collaboration with two local developer clo
 - `developer-one`: working clone for Developer One
 - `developer-two`: working clone for Developer Two
 
-The developer clones use the shared local remote as `origin`, so the exercises work without network access. Their practice identities are configured locally and do not change your global Git settings. The starter repository publishes to the public GitHub repository `npower3/git-conflict-lab`; after publishing, each developer clone can use a `github` remote to share work online.
+The developer clones use the shared local remote as `origin`, so the exercises work without network access. Their practice identities are configured locally and do not change your global Git settings. The public GitHub repository `npower3/git-conflict-lab` is a published copy; use the local `origin` remote for these exercises.
 
 ## Exercise 1: Sync without a conflict
 
